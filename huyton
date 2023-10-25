@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Le Ton Bao Huy - Home</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome everyone to Huyton's website who knows nothing about code </h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="about.html">About Me</a></li> <!-- Linked to another page --> https://www.facebook.com/doikhiuminhthiminhiudoi
+        </ul>
+    </nav>
+    <section>
+        <h2>Greetings</h2>
+        <p>Hello, and welcome to my personal website. This is where I share information about myself and my interests.</p>
+    </section>
+    <section>
+        <h2>About Me</h2>
+        <p>I am a student of Ha Noi University of Science and Technology about my work and interests. Here's a bit about me.</p>
+    </section>
+    <section>
+        <h2>My Photo</h2>
+        <img src="https://www.facebook.com/photo/?fbid=1983224352071149&set=a.120708531656083&__cft__[0]=AZUByOwog8_acBwknE4fIBrvv0bRc3jpR1ZY0ZlJcI3eAs7jqRXOkDy6KT8gWz0s6pBkgUDp28Wq4wKqQDqY8LKNZOyJV4CcWFZCzRUQnlyDpZMNKI3f2H3ch1BB3AHkCib21A4zcCWBzsFneVYWMccjA1E29WE6omxmPtKPkCMJmg&__tn__=~H-R" alt="Le Ton Bao Huy">
+    </section>
+    <section>
+        <h2>Study or Work Links</h2>
+        <ul>
+            <li><a href="#">https://hust.edu.vn/</a></li>
+            <li><a href="#">https://www.facebook.com/hlshust</a></li>
+            <li><a href="#">https://www.instagram.com/imnothuytonnnn/</a></li>
+        </ul>
+    </section>
+    <section>
+        <h2>Extracurricular Link</h2>
+        <a href="#">https://www.instagram.com/imnothuytonnnn/</a>
+         <p>I love take a picture</p>
+    </section>
+</body>
+</html>
